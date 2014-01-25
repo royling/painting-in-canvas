@@ -1,0 +1,1 @@
+Paintings in canvas API
